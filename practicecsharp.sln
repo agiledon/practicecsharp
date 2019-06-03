@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPracticeCSharp", "TestPracticeCSharp\TestPracticeCSharp.csproj", "{8518BB25-0AFC-4A75-AF18-AD7DC57E322C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeCSharp", "PracticeCSharp\PracticeCSharp.csproj", "{BD5E20CB-BA0F-4EEB-94FE-37308ED44A37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8518BB25-0AFC-4A75-AF18-AD7DC57E322C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8518BB25-0AFC-4A75-AF18-AD7DC57E322C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8518BB25-0AFC-4A75-AF18-AD7DC57E322C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8518BB25-0AFC-4A75-AF18-AD7DC57E322C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5E20CB-BA0F-4EEB-94FE-37308ED44A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5E20CB-BA0F-4EEB-94FE-37308ED44A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5E20CB-BA0F-4EEB-94FE-37308ED44A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5E20CB-BA0F-4EEB-94FE-37308ED44A37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
